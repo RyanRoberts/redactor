@@ -1,0 +1,8 @@
+{
+  "buttons": [ "html", "bold", "italic", "ul", "link" ],
+  "pasteBlockTags": [ "ul", "li" ],
+  "pasteInlineTags": [ "strong", "em", "a" ],
+  "buttonsTextLabeled": false,
+  "autoparseVideo": false,
+  "autoparseImages": false
+}
